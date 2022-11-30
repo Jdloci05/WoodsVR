@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Left Hand
+  - Right Hand
+  - target
+  - floor
+  - ScoreTextTag
+  - Arrow
+  - TargetUnique
+  - Axe
+  - Demogorgon
+  - TargetUnique2
+  - TargetUnique3
+  - TargetUnique4
+  - TargetUnique5
+  - TargetUnique6
+  - TargetUnique7
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Interactable
+  - No render
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
